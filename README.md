@@ -5,13 +5,10 @@ ChessLab is a Java-based console application that provides a basic architecture 
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/chesslab.git
-2. Navigate to the project directory: 
-   ```bash
-   cd chesslab
-3. Compile all Java files:
+   git clone https://github.com/yourusername/Chess-Game.git
+2. Compile all Java files:
    ```bash
    javac *.java
-4. Run the main entry point:
+3. Run the main entry point:
    ```bash
    java com.chesslab.Main
